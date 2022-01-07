@@ -1,0 +1,61 @@
+{
+  "term": "Fall",
+  "year": "2011",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Humanities",
+      "History",
+      "Intellectual History"
+    ],
+    [
+      "Social Science",
+      "Sociology"
+    ],
+    [
+      "Social Science",
+      "Anthropology",
+      "Cultural Anthropology"
+    ],
+    [
+      "Social Science",
+      "Anthropology",
+      "Ethnography"
+    ],
+    [
+      "Social Science",
+      "Economics",
+      "Political Economy"
+    ]
+  ],
+  "legacy_uid": "f1d54d4e-b15c-d849-60f7-481604b080be",
+  "instructors": {
+    "content": [
+      "5630b551-e31e-6d49-d542-891e2dc7678d"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "eb1a5990-1141-7ea2-2765-2bcf567f71b7",
+    "website": "21a-750j-social-theory-and-analysis-fall-2011"
+  },
+  "course_title": "Social Theory and Analysis",
+  "course_description": "This course covers major theorists and theoretical schools since the late 19th century. Marx, Weber, Durkheim, Bourdieu, Levi-Strauss, Geertz, Foucault, Gramsci, and others.\n",
+  "department_numbers": [
+    "21A",
+    "STS"
+  ],
+  "extra_course_numbers": "STS.250J",
+  "primary_course_number": "21A.750J",
+  "course_image_thumbnail": {
+    "content": "09404b07-8382-7a1f-a88b-bf1657dfe010",
+    "website": "21a-750j-social-theory-and-analysis-fall-2011"
+  },
+  "learning_resource_types": [
+    "Written Assignments"
+  ],
+  "site_uid": "e81e209e-6804-4a17-abbb-0e799f9e8bf9",
+  "title": "Course Metadata"
+}
